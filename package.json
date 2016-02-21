@@ -7,10 +7,6 @@
     "example": "example",
     "test": "test"
   },
-  "dependencies": {
-    "tester": "^1.3.1"
-  },
-  "devDependencies": {},
   "scripts": {
     "test": "node test"
   },
@@ -28,5 +24,12 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/fixed-or-percent/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/fixed-or-percent#readme"
+  "homepage": "https://github.com/IonicaBizau/fixed-or-percent#readme",
+  "dependencies": {
+    "is-percent": "^1.0.3",
+    "percent-value": "^1.0.0"
+  },
+  "devDependencies": {
+    "tester": "^1.3.1"
+  }
 }
