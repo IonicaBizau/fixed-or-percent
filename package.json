@@ -1,6 +1,6 @@
 {
   "name": "fixed-or-percent",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get the percent or fixed value.",
   "main": "lib/index.js",
   "directories": {
@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/IonicaBizau/fixed-or-percent#readme",
   "dependencies": {
-    "is-percent": "^1.0.3",
+    "is-percent": "^1.0.1",
     "percent-value": "^1.0.0"
   },
   "devDependencies": {
