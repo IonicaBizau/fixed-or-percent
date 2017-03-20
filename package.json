@@ -1,6 +1,6 @@
 {
   "name": "fixed-or-percent",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Get the percent or fixed value.",
   "main": "lib/index.js",
   "directories": {
@@ -19,7 +19,7 @@
     "percent",
     "value"
   ],
-  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/IonicaBizau/fixed-or-percent/issues"
@@ -36,12 +36,11 @@
     "bin/",
     "app/",
     "lib/",
-    "build/",
     "dist/",
     "src/",
+    "scripts/",
     "resources/",
     "menu/",
-    "scripts/",
     "cli.js",
     "index.js"
   ]
