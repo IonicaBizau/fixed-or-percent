@@ -10,7 +10,11 @@
 ## :cloud: Installation
 
 ```sh
-$ npm i --save fixed-or-percent
+# Using npm
+npm install --save fixed-or-percent
+
+# Using yarn
+yarn add fixed-or-percent
 ```
 
 
