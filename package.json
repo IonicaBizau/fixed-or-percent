@@ -1,6 +1,6 @@
 {
   "name": "fixed-or-percent",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "Get the percent or fixed value.",
   "main": "lib/index.js",
   "directories": {
